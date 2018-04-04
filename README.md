@@ -5,7 +5,7 @@ Sun Yutong's Personal Portfolio
 <h1>Welcome to My Website</h1>
 <title>
   About Me
-  </title>
+</title>
 <p>
 My name is Sun Yutong. I am a student of Dunman High School. I am currently in year 1. I love animals, espeically dogs.</p>
   <p>
