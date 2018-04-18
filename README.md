@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Sun Yutong's Personal Portfolio</h1>
+<h1>My Personal Portfolio</h1>
 <h3>
   About Me
 </h3>
@@ -18,6 +18,4 @@ Here’s our school website link <a href ="www.dhs.sg"> Dunman High School  </a>
 <li>Watching Movies</li>
 </ul>
 <p>
-My favourite books are the Imposter series by Susanne Winnacker. I like to read fiction books, especially mystery or teen books. I like reading as it enables me to step into other's shoes and experience different situations in their perspective.
-</body>
 </html>
